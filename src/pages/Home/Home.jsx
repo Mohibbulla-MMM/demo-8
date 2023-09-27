@@ -18,9 +18,8 @@ const Home = () => {
           className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6
          "
         >
-          {allData.map((item) => (
-            <Card key={item.id} item={item}></Card>
-          ))}
+          {allData?.length > 0 &&
+            allData?.map((item) => <Card key={item.id} item={item}></Card>)}
         </div>
       </CardData.Provider>
     </div>

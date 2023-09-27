@@ -1,29 +1,5 @@
 [
   {
-    "picture": "https://i.ibb.co/hF71VJ6/Rectangle-4287-1.png",
-    "title": "Good education",
-    "category": "Education",
-    "description": "The Smartphone  is the latest addition to our electronic gadgets collection. This powerful and feature-packed smartphone is designed to meet all your communication and entertainment needs. With a stunning high-resolution display, a powerful processor, and a long-lasting battery, this smartphone offers an exceptional user experience. Whether you're a professional who needs to stay connected on the go or a multimedia enthusiast who loves to watch videos and play games, the Smartphone XYZ has you covered. It comes with a high-quality camera that captures stunning photos and videos, and it supports fast charging for added convenience. Stay productive and entertained with this top-of-the-line smartphone at an affordable price of  399.99. ",
-    "price": 399.99,
-    "category_bg": "",
-    "card_bg": "#ff444a26",
-    "text_color": "#FF444A",
-    "btn_bg": "#ff424933",
-    "id": 1
-  },
-  {
-    "picture": "https://i.ibb.co/jVW05Xg/Rectangle-4287.png",
-    "title": "Used Clothing Drive",
-    "category": "Clothing",
-    "description": "Elevate your fashion game with our Designer Dress collection. This exquisite piece of clothing is a perfect blend of style and comfort. Made from premium materials, it offers a luxurious feel and a flattering fit. Whether you're attending a special occasion or just want to look your best every day, this Designer Dress is a must-have in your wardrobe.  The attention to detail and craftsmanship put into this dress is evident in every stitch. It's available in various sizes and colors to suit your preferences. With a price of  299.99, it's an affordable way to add a touch of elegance to your wardrobe.",
-    "price": 299.99,
-    "category_bg": "#e74c3c",
-    "card_bg": "#7ac23f27",
-    "text_color": "#79C23F",
-    "btn_bg": "#7ac23f34",
-    "id": 2
-  },
-  {
     "picture": "https://i.ibb.co/JxCdThq/Rectangle-4287-2.png",
     "title": "Better Food for Everyone",
     "category": "Food",
@@ -47,6 +23,31 @@
     "btn_bg": "#0052ff33",
     "id": 4
   },
+  {
+    "picture": "https://i.ibb.co/hF71VJ6/Rectangle-4287-1.png",
+    "title": "Good education",
+    "category": "Education",
+    "description": "The Smartphone  is the latest addition to our electronic gadgets collection. This powerful and feature-packed smartphone is designed to meet all your communication and entertainment needs. With a stunning high-resolution display, a powerful processor, and a long-lasting battery, this smartphone offers an exceptional user experience. Whether you're a professional who needs to stay connected on the go or a multimedia enthusiast who loves to watch videos and play games, the Smartphone XYZ has you covered. It comes with a high-quality camera that captures stunning photos and videos, and it supports fast charging for added convenience. Stay productive and entertained with this top-of-the-line smartphone at an affordable price of  399.99. ",
+    "price": 399.99,
+    "category_bg": "",
+    "card_bg": "#ff444a26",
+    "text_color": "#FF444A",
+    "btn_bg": "#ff424933",
+    "id": 1
+  },
+  {
+    "picture": "https://i.ibb.co/jVW05Xg/Rectangle-4287.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "description": "Elevate your fashion game with our Designer Dress collection. This exquisite piece of clothing is a perfect blend of style and comfort. Made from premium materials, it offers a luxurious feel and a flattering fit. Whether you're attending a special occasion or just want to look your best every day, this Designer Dress is a must-have in your wardrobe.  The attention to detail and craftsmanship put into this dress is evident in every stitch. It's available in various sizes and colors to suit your preferences. With a price of  299.99, it's an affordable way to add a touch of elegance to your wardrobe.",
+    "price": 299.99,
+    "category_bg": "#e74c3c",
+    "card_bg": "#7ac23f27",
+    "text_color": "#79C23F",
+    "btn_bg": "#7ac23f34",
+    "id": 2
+  },
+
   {
     "picture": "https://i.ibb.co/hF71VJ6/Rectangle-4287-1.png",
     "title": "Good education",
@@ -96,6 +97,18 @@
     "id": 8
   },
   {
+    "picture": "https://i.ibb.co/hF71VJ6/Rectangle-4287-1.png",
+    "title": "Good education",
+    "category": "Education",
+    "description": "Immerse yourself in the world of education with our Education category. Whether you're a student looking for textbooks, a teacher in search of teaching materials, or an enthusiast eager to learn, our Education category has you covered.We offer a wide range of educational resources, including textbooks, online courses, educational toys, and more. Explore our collection to enhance your knowledge and skills. Learning has never been more accessible and enjoyable. Prices vary depending on the resource.",
+    "price": 200,
+    "category_bg": "#27ae60",
+    "card_bg": "#ff444a26",
+    "text_color": "#FF444A",
+    "btn_bg": "#ff424933",
+    "id": 12
+  },
+  {
     "picture": "https://i.ibb.co/jVW05Xg/Rectangle-4287.png",
     "title": "Used Clothing Drive",
     "category": "Clothing",
@@ -130,17 +143,5 @@
     "text_color": "#f8703e",
     "btn_bg": "#f8704734",
     "id": 11
-  },
-  {
-    "picture": "https://i.ibb.co/hF71VJ6/Rectangle-4287-1.png",
-    "title": "Good education",
-    "category": "Education",
-    "description": "Immerse yourself in the world of education with our Education category. Whether you're a student looking for textbooks, a teacher in search of teaching materials, or an enthusiast eager to learn, our Education category has you covered.We offer a wide range of educational resources, including textbooks, online courses, educational toys, and more. Explore our collection to enhance your knowledge and skills. Learning has never been more accessible and enjoyable. Prices vary depending on the resource.",
-    "price": 200,
-    "category_bg": "#27ae60",
-    "card_bg": "#ff444a26",
-    "text_color": "#FF444A",
-    "btn_bg": "#ff424933",
-    "id": 12
   }
 ]
